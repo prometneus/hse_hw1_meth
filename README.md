@@ -14,8 +14,8 @@ ICM |	SRR5836475|	1456 |	630 | 9.08%
 ## M-Bias графики
 8 cell |	Epiblast | ICM
 -|-|-
- |	![](images/SRR5836475_M-bias_Read_1.png) |	![](images/SRR3824222_M-bias_Read_1.png)
-![](images/SRR5836473_M-bias_Read_2.png) |	![](images/SRR5836475_M-bias_Read_2.png) |	![](images/SRR3824222_M-bias_Read_2.png)
+![image](pics/8cell1.png) |	![image](pics/epiblast1.png) |	![image](pics/icm1.png)
+![image](pics/8cell2.png) |	![image](pics/epiblast2.png) |	![image](pics/icm2.png)
 
 ## Гистограммы распределения метилирования цитозинов по хромосоме
 8 cell |	Epiblast | ICM
