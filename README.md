@@ -16,7 +16,7 @@ ICM |	SRR5836475|	1456 |	630 | 9.08% | ссылка на отчёт
 # Гистограммы распределения метилирования цитозинов по хромосоме
 8 cell |	Epiblast | ICM
 -|-|-
-![image](https://user-images.githubusercontent.com/86663451/154527125-88e9114d-56ce-44b6-a9bd-c4bb5080cef1.png) |	![image](https://user-images.githubusercontent.com/86663451/154526669-2374548c-183a-4e42-b9c1-45d58877250d.png) |	![image](https://user-images.githubusercontent.com/86663451/154526724-e96105e8-8e9e-4ec3-a24a-a149a0f57654.png)
+![image] (pics/8cell_hist.png) |	![image](pics/Epiblast_hist.png) |	![image](pics/ICM_hist.png)
 
 # Графики покрытия и метилирования
 
