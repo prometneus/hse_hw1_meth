@@ -19,4 +19,6 @@ ICM |	SRR5836475|	1456 |	630 | 9.08% | ссылка на отчёт
 ![image](pics/8cell_hist.png) |	![image](pics/Epiblast_hist.png) |	![image](pics/ICM_hist.png)
 
 # Графики покрытия и метилирования
+![image](pics/image_cov.png)
 
+![image](pics/another_image_cov.png)
