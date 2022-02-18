@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/86663451/154715666-dd6830eb-2b6d-4b66-afa0-c079efa8cf6c.png)
 
-Также заметно отличие на графике Per base sequence content: много тимина и мало цитозина по сравнению с тем же графиком секвенированной ДНК.
+Также заметно отличие на графике Per base sequence content: много тимина и мало цитозина по сравнению с тем же графиком секвенированной ДНК более обычным образом.
 
 ![image](https://user-images.githubusercontent.com/86663451/154717786-5e549902-d353-434e-8030-e7d0439db1fa.png)
 
